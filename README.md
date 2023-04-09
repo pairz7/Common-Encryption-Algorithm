@@ -1,5 +1,5 @@
 ## 常用加密算法Python实现
-
+持续更新中... 欢迎star
 ### Preview：
 
 [http://pair7z.com/project/cypher](http://pair7z.com/project/cypher/#/)
